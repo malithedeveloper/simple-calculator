@@ -1,0 +1,12 @@
+C:\Users\malidev\source\repos\Simple calculator\Simple calculator\bin\Release\Simple calculator.exe.config
+C:\Users\malidev\source\repos\Simple calculator\Simple calculator\bin\Release\Simple calculator.exe
+C:\Users\malidev\source\repos\Simple calculator\Simple calculator\bin\Release\Simple calculator.pdb
+C:\Users\malidev\source\repos\Simple calculator\Simple calculator\bin\Release\Simple calculator.xml
+C:\Users\malidev\source\repos\Simple calculator\Simple calculator\obj\Release\Simple calculator.vbproj.AssemblyReference.cache
+C:\Users\malidev\source\repos\Simple calculator\Simple calculator\obj\Release\Simple_calculator.Form1.resources
+C:\Users\malidev\source\repos\Simple calculator\Simple calculator\obj\Release\Simple_calculator.Resources.resources
+C:\Users\malidev\source\repos\Simple calculator\Simple calculator\obj\Release\Simple calculator.vbproj.GenerateResource.cache
+C:\Users\malidev\source\repos\Simple calculator\Simple calculator\obj\Release\Simple calculator.vbproj.CoreCompileInputs.cache
+C:\Users\malidev\source\repos\Simple calculator\Simple calculator\obj\Release\Simple calculator.exe
+C:\Users\malidev\source\repos\Simple calculator\Simple calculator\obj\Release\Simple calculator.xml
+C:\Users\malidev\source\repos\Simple calculator\Simple calculator\obj\Release\Simple calculator.pdb
